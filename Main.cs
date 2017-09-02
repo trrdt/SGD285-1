@@ -40,7 +40,8 @@ public class SGD285_1
                     new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"),
                     new UserQuote("Paola Gonzalez", "The roots of education are bitter, but the fruit is sweet. - Aristotle"),
                     new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"),
-                        new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime")						
+                        new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),	
+                        new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin")					
             // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list. 
             // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure 
             // your program compiles and runs locally, then push to the git repository on GitHub.
