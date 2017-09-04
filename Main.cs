@@ -42,7 +42,7 @@ public class SGD285_1
                     new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"),
                         new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),	
                         new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin"),					
-            new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing.")
+            new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing. - [attributed to] Socrates")
             // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list. 
             // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure 
             // your program compiles and runs locally, then push to the git repository on GitHub.
