@@ -45,6 +45,7 @@ public class SGD285_1
            new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin"),					
            new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing. - [attributed to] Socrates"),
 	       new UserQuote("Jonathon Huskey", "The path of least resistance is the path of the loser. -H. G. Wells"),
+           new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"),
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte")
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list. 
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure 
