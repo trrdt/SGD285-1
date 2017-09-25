@@ -47,6 +47,8 @@ public class SGD285_1
 	       new UserQuote("Jonathon Huskey", "The path of least resistance is the path of the loser. -H. G. Wells"),
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
 	   new UserQuote("Jonny Westfall", "No one will ever get what they want, and that is beautiful. - They Might Be Giants) 
+           new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"),
+           new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte")
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list. 
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure 
            // your program compiles and runs locally, then push to the git repository on GitHub.
