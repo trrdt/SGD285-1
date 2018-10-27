@@ -6,11 +6,11 @@
 	file base:	Main
 	file ext:	cs
 	author:		Bahram Dahi
-	
-	purpose:	This program is a simple C# app that displays 
+
+	purpose:	This program is a simple C# app that displays
                 quotes from the students' favorite authors.
 
-    Last Update: 
+    Last Update:
                 . Added the UserQuote for Bahram Dahi
 *********************************************************************/
 using System;
@@ -32,7 +32,7 @@ public class SGD285_1
     // Main method
     public static void Main()
     {
-        UserQuote[] userQuotes = new UserQuote[] 
+        UserQuote[] userQuotes = new UserQuote[]
 	    {
            new UserQuote("Bahram Dahi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain"),
 	       new UserQuote("Ryan Douglass", "If there is no struggle there is no progress. - Frederick Douglass"),
@@ -41,8 +41,8 @@ public class SGD285_1
            new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"),
            new UserQuote("Paola Gonzalez", "The roots of education are bitter, but the fruit is sweet. - Aristotle"),
            new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"),
-           new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),	
-          new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin"),					
+           new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),
+          new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin"),
            new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing. - [attributed to] Socrates"),
 	       new UserQuote("Jonathon Huskey", "The path of least resistance is the path of the loser. -H. G. Wells"),
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
@@ -50,8 +50,9 @@ public class SGD285_1
            new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"), // I love this quote//
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
            new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),
-           // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list. 
-           // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure 
+           new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"),
+           // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
+           // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
            // your program compiles and runs locally, then push to the git repository on GitHub.
         };
 
