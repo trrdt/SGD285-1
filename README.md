@@ -14,7 +14,7 @@ This repository holds the assignments for Topic 1 of SGD285 course at CPCC.
 1. Fork the repository into your Github account (DO NOT CLONE THE MAIN REPO)
 2. Clone your version of the repository to a local folder\
 3. Add a comment or two about other people's favorite quote IN FRONT OF their quote using `/* */` symbols. For example: 
-`new UserQuote("Bahram Dahi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain"), /* By John Doe: I think this quote is originally from Grant Allen */`
+`new UserQuote("Farhad Javidi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain"), /* By John Doe: I think this quote is originally from Grant Allen */`
 4. Add, commit to your repository (NOT the main repository). Make sure you pull all changes from upstream before committing.
 5. Go to GitHub and do a pull request from your account's repo into master branch of the main repository
 
