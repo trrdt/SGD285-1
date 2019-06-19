@@ -55,7 +55,7 @@ public class SGD285_1
            new UserQuote("Evy Kollstrand", "You never know until you know, you know"),
            new UserQuote("Keivon Arooji", "Education is what remains after one has forgotten what one has learned in school. -Albert Einstein"),
            new UserQuote("Darius Samani", "If I had nine hours to chop down a tree, I’d spend the first six sharpening my axe.” – Abraham Lincoln"),
-           new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"),
+           new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"), /* Brilliant quote! - Aliyah Day */
            new UserQuote("Tobias Gladden", "I? I am a monument to all your sins. - The Gravemind"),
            new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"),
            new UserQuote("Aliyah Day", "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty. -Maya Angelou"),
