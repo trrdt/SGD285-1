@@ -37,13 +37,13 @@ public class SGD285_1
            new UserQuote("Bahram Dahi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain"),
 	       new UserQuote("Ryan Douglass", "If there is no struggle there is no progress. - Frederick Douglass"),
 	       new UserQuote("Baylen Smith", "Whatever happens, happens. - Spike Spiegel"),
-	       new UserQuote("Jennifer Ethridge", "I have found a desire within myself that no experience in this world can satisfy; the most probable explanation is that I was made for another world."),
-           new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"),
+	       new UserQuote("Jennifer Ethridge", "I have found a desire within myself that no experience in this world can satisfy; the most probable explanation is that I was made for another world."), /* Thomas Robertson:  Who are you quoting, Miss Etheridge? */
+           new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"), /* Thomas Robertson:  I am glad I read this as it reminded me of a camel I once knew. */
            new UserQuote("Paola Gonzalez", "The roots of education are bitter, but the fruit is sweet. - Aristotle"),
            new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"),
            new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),
            new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin"),
-           new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing. - [attributed to] Socrates"),
+           new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing. - [attributed to] Socrates"), /* Thomas Robertson:  ... nothing, I know <i>nothing!</i> ...*/
 	       new UserQuote("Jonathon Huskey", "The path of least resistance is the path of the loser. -H. G. Wells"),
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
 	       new UserQuote("Jonny Westfall", "No one will ever get what they want, and that is beautiful. - They Might Be Giants"),
@@ -52,7 +52,7 @@ public class SGD285_1
            new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),
            new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"),
            new UserQuote("Hannah Sprinkle", "There are no happy endings, endings are the saddest part. So just give me a happy middle and a very happy start. -Shel Silverstein"),
-           new UserQuote("Evy Kollstrand", "You never know until you know, you know"),
+           new UserQuote("Evy Kollstrand", "You never know until you know, you know"), /* Thomas Robertson:  "The ice we skate is getting pretty thin." -[unknown band lyric(s) from 90's] */
            new UserQuote("Keivon Arooji", "Education is what remains after one has forgotten what one has learned in school. -Albert Einstein"),
            new UserQuote("Darius Samani", "If I had nine hours to chop down a tree, I’d spend the first six sharpening my axe.” – Abraham Lincoln"),
            new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"), /* Brilliant quote! - Aliyah Day */
@@ -61,7 +61,7 @@ public class SGD285_1
            new UserQuote("Aliyah Day", "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty. -Maya Angelou"),
            new UserQuote("Perry Courter", "Hell of a thing killing a man, you take away all he has, and everything he is ever gunna be - Clint Eastwood" ),
            new UserQuote("Thomas Robertson", "I come to trade and to learn. - Barnabas Sackett"),
-           new UserQuote("This is a Test", "Something witty is supposed to go here = Me")
+           new UserQuote("This is a Test", "Something witty is supposed to go here = Me") /* ThomasRobertson : I think your syntax is a bit off. */
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
            // your program compiles and runs locally, then push to the git repository on GitHub.
