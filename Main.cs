@@ -60,6 +60,7 @@ public class SGD285_1
            new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"),
            new UserQuote("Aliyah Day", "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty. -Maya Angelou"),
            new UserQuote("Perry Courter", "Hell of a thing killing a man, you take away all he has, and everything he is ever gunna be - Clint Eastwood" ),
+           new UserQuote("Thomas Robertson", "I come to trade and to learn. - Barnabas Sackett"),
            new UserQuote("This is a Test", "Something witty is supposed to go here = Me")
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
